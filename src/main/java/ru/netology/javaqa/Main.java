@@ -13,9 +13,9 @@ public class Main {
         post.subscription = true;
 
         post.birthday = new FormDate();
-        post.birthday.day = "13";
-        post.birthday.month = "4";
-        post.birthday.year = "1996";
+        post.birthday.day = 13;
+        post.birthday.month = 4;
+        post.birthday.year = 1996;
 
     }
 }
